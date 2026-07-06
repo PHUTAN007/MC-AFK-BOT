@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'poohTHH.aternos.me', // :warning: เปลี่ยนเป็น IP Aternos ของคุณ
+    host: 'dottyback.aternos.host', // :warning: เปลี่ยนเป็น IP Aternos ของคุณ
     port: 40029,                     // พอร์ตปกติของ Aternos
     username: 'AFK_Bot_Aternos',     // ชื่อบอทในเกม
     version: '1.21.1'                // เวอร์ชันมอดแพ็ก Cobbleverse
